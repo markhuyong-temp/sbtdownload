@@ -1,0 +1,8 @@
+support future:
+1. Manifest version reader from local sbt-launch.jar
+2. get latest version of repo list
+3. version compare only like "0.11.3", nothing else
+ 0.12.0-M1/
+ 0.12.0-M2/
+ 0.12.0-RC1/
+4. only get download link, not really download jar file
